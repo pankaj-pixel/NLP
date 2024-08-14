@@ -1,0 +1,1 @@
+UiPath has embraced the new possibilities emerging from GenAI and LLMs, using these advances broadly in our quest to deliver the best-in-class IDP and enterprise automation across various business processes. You can watch UiPath AI Summit to learn about the latest UiPath AI capabilities such as DocPath and CommPath LLMs.
